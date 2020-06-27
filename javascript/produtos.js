@@ -30,7 +30,7 @@ const produtos = [
    { 
       nome: 'Nhoque Artesanal 500g',
       descricao: ' Contén glúten, contém ovos ',
-      valor: 'R$',
+      valor: 'R$ 20,00',
       imgUrl: './imagem/nhoque-01.jpeg'
    },
 
